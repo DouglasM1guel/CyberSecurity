@@ -1,0 +1,15 @@
+Criptografia – definição e significado
+Criptografia em segurança virtual é a conversão de dados de um formato legível em um formato codificado. Os dados criptografados só podem ser lidos ou processados ​​depois de serem descriptografados.
+
+A criptografia é um elemento fundamental da segurança de dados. É a forma mais simples e mais importante de garantir que as informações do sistema de um computador não sejam roubadas e lidas por alguém que deseja usá-las para fins maliciosos.
+
+A criptografia de segurança de dados é amplamente usada por usuários individuais e grandes corporações para proteger as informações dos usuários enviadas entre um navegador e um servidor. Essas informações podem incluir de tudo, desde dados de pagamento até informações pessoais. Os softwares de criptografia de dados, também conhecidos como algoritmo de criptografia ou codificação, são usados para desenvolver um esquema de criptografia que teoricamente pode ser desvendado apenas com uma grande capacidade de processamento.
+
+Como funciona a criptografia?
+Quando informações ou dados são compartilhados na Internet, passam por uma série de dispositivos em rede espalhados pelo mundo, que fazem parte da Internet pública. À medida que passam pela Internet pública, os dados correm o risco de serem comprometidos ou roubados por hackers. Para evitar isso, os usuários podem instalar um software ou hardware específico para garantir que os dados ou as informações sejam transferidos com segurança. Esses processos são conhecidos como criptografia em segurança de rede.
+
+A criptografia envolve a conversão de texto simples legível por humanos em texto incompreensível, o que é conhecido como texto cifrado. Essencialmente, isso significa pegar dados legíveis e transformá-los de forma que pareçam aleatórios. A criptografia envolve o uso de uma chave criptográfica, um conjunto de valores matemáticos com os quais tanto o remetente quanto o destinatário concordam. O destinatário usa a chave para descriptografar os dados, transformando-os de volta em texto simples legível.
+
+Quanto mais complexa for a chave criptográfica, mais segura será a criptografia, pois é menos provável que terceiros a descritografem por meio de ataques de força bruta (ou seja, tentar números aleatórios até que a combinação correta seja adivinhada).
+
+A criptografia também é usada para proteger senhas. Os métodos de criptografia de senha codificam a sua senha de forma que ela fique ilegível por hackers.
