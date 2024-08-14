@@ -1,4 +1,4 @@
 # CyberSecurity
 O começo/
 
-teste com sha1
+(https://www.ssldragon.com/wp-content/uploads/2023/10/encryption.webp)
