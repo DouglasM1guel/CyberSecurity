@@ -1,4 +1,4 @@
 # CyberSecurity
 O começo/
 
-![Capa](https://www.ssldragon.com/wp-content/uploads/2023/10/encryption.webp)
+![Capa](https://kryptus.com/wp-content/uploads/2023/08/criptografia-ponta-a-ponta.jpg)
