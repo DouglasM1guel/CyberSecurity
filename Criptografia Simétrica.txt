@@ -1,0 +1,7 @@
+Criptografia Simétrica
+
+Os algoritmos de criptografia simétrica permitem a proteção de informações dos mais diversos tipos. Exemplos: arquivos em um notebook ou computador, arquivos com dados pessoais sigilosos como senhas, planilhas financeiras, campos de um banco de dados, partições de um sistema operacional, arquivos armazenados no celular. Para garantir esta proteção utiliza-se um algoritmo simétrico e uma chave.
+
+Existem vários algoritmos de chave simétrica, como o DES e o AES. Estes algoritmos são implementados em softwares e disponibilizados na Internet. Há implementações gratuitas ou comerciais de versões destes algoritmos. Dentre os softwares existentes, pode-se citar: o Blowfish, AxCrypt, SafeHouse Explorer, 7zip, Agnot Security, etc.
+
+É importante para os profissionais da área de segurança da informação o conhecimento de um ou mais destes softwares, visto que são essenciais para a proteção de informações confidenciais. Mesmo que alguns destes softwares tenham uma boa usabilidade, é importante testar algumas destas ferramentas para poder entender corretamente, de maneira prática, os algoritmos assimétricos
